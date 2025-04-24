@@ -68,3 +68,19 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
 
 </details>
+<details>
+<summary> <H2> Woche 5 - CNNs  </H2><BR></summary>
+  
+### Lab
+* [AlexNet Implementation in PyTorch](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/3_alexnet.ipynb)
+
+### Get State of the Art Models: 
+* [PyTorch Model Zoo](https://pytorch.org/vision/stable/models.html)
+* [Papers with Code](https://paperswithcode.com/sota)
+* [Hugging Face Models](https://huggingface.co/models)
+
+### Assignment
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb)
+
+
+</details>
